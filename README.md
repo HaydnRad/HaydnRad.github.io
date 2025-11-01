@@ -7,14 +7,14 @@
 - **Nationality:** South African
 - **Driver's licence:** Code B
 - **Located in:** Johannesburg, 2196
-- **Email:** haydn.r.cooke@gmail.com
+- **Email:** [haydn.r.cooke@gmail.com](mailto:haydn.r.cooke@gmail.com)
 - **Cellphone:** *contact via email first*
-- **Github:** https://github.com/HaydnRad
+- **Github:** [github.com/HaydnRad](https://github.com/HaydnRad)
 - **LinkedIn:** [linkedin.com/in/haydn-rad-cooke](https://www.linkedin.com/in/haydn-rad-cooke)
 - **Discord:** haydnrad
 ## Career Goals
 I plan to finish my undergraduate at WITS university and acquire a BSc in Computer Science and Mathematics degree before aiming to have a full time programming job, however finding a part time job sooner for experience during my downtime would be ideal. Outside of general software development/engineering, low level and performance focused programming is of particular interest to me (notably in computer graphics and integrated hardware). I know a wide range of programming languages and can adapt quickly to new ones, meaning that I can take on any kind of programming-related task that is put in front of me. I've worked productively in multiple teams via GitHub on a few projects in the past, and can easily mesh with any future teams I may find myself with.
-I am interested in programming for Northwood Studios, as I enjoy playing and coding plugins for their game ***SCP: Secret Laboratory*** in my free time.
+I am interested in programming for Northwood Studios, as I enjoy playing and coding plugins for their game [***SCP: Secret Laboratory***](https://scpslgame.com) in my free time.
 ## Education
 - **High School:** Crawford International Sandton College
 	- 2018 - 2022
