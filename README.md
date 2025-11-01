@@ -30,8 +30,8 @@ I am interested in programming for Northwood Studios, as I enjoy playing and cod
 			- Calculus & Algebra
 			- Graph Theory & Matrices
 	- **IEB Exam number:** 227161020155
-	- [NSC Certificate](https://github.com/user-attachments/files/23277237/HaydnCookeMatricResults.pdf)
-	- [FTSTUD Certificate](https://github.com/user-attachments/files/23277241/HaydnCookeMatricResultsFTStud.pdf)
+	- [NSC Certificate](https://github.com/HaydnRad/HaydnRad.github.io/blob/main/src/HaydnCookeMatricResults.pdf)
+	- [FTSTUD Certificate](https://github.com/HaydnRad/HaydnRad.github.io/blob/main/src/HaydnCookeMatricResultsFTStud.pdf)
 - **Further Education:** University of the Witswatersrand
 	- 2024 - ongoing
 	- **Bachelor of Science Majors:**
@@ -46,8 +46,8 @@ I am interested in programming for Northwood Studios, as I enjoy playing and cod
 		- Certificate of Merit for Introduction to Data Structures and Algorithms I
 	- **Scholarships:**
 		- UG -UNIV COUNCIL MERIT SCHOLARSHIP
-	- [Digital Transcript - July 23 2025](https://github.com/user-attachments/files/23277326/UW_RE_ACADTR.pdf)
-	- [Unconfirmed Mid-year 2 Results](https://github.com/user-attachments/assets/dbb5e437-d5a3-466a-927b-bc658bae9a87)
+	- [Digital Transcript - July 23 2025](https://github.com/HaydnRad/HaydnRad.github.io/blob/main/src/UW_RE_ACADTR.pdf)
+	- [Unconfirmed Mid-year 2 Results](https://github.com/HaydnRad/HaydnRad.github.io/blob/main/src/UnconfirmedMidyear.png)
 - **Languages:**
 	- English (fluent)
 	- Afrikaans (shaky)
