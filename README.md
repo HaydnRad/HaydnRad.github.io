@@ -76,3 +76,7 @@ I am interested in programming for Northwood Studios, as I enjoy playing and cod
 	- Visual Studio Code
 	- Obsidian
 	- Krita
+## Availability
+- Available immediately
+	- Full-time, part-time, and online
+- (Future availability depends on 2026 lecture schedule)
