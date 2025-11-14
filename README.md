@@ -2,7 +2,6 @@
 ## Personal and Contact Information
 - **Full name:** Haydn Rad Cooke
 - **Title:** Mr
-- **Date of birth:** 26/10/2004
 - **Age:** 21
 - **Nationality:** South African
 - **Driver's licence:** Code B
@@ -11,24 +10,23 @@
 - **Cellphone:** *contact via email first*
 - **Github:** [github.com/HaydnRad](https://github.com/HaydnRad)
 - **LinkedIn:** [linkedin.com/in/haydn-rad-cooke](https://www.linkedin.com/in/haydn-rad-cooke)
-- **Discord:** haydnrad
 ## Career Goals
 I plan to finish my undergraduate at WITS university and acquire a BSc in Computer Science and Mathematics degree before aiming to have a full time programming job, however finding a part time job sooner for experience during my downtime would be ideal. Outside of general software development/engineering, low level and performance focused programming is of particular interest to me (notably in computer graphics and integrated hardware). I know a wide range of programming languages and can adapt quickly to new ones, meaning that I can take on any kind of programming-related task that is put in front of me. I've worked productively in multiple teams via GitHub on a few projects in the past, and can easily mesh with any future teams I may find myself with.
 I am interested in programming for Northwood Studios, as I enjoy playing and coding plugins for their game [***SCP: Secret Laboratory***](https://scpslgame.com) in my free time.
 ## Education
 - **High School:** Crawford International Sandton College
 	- 2018 - 2022
-	- **Matric subjects:**
-		- Afrikaans FAL
-		- Computer Applications Technology
-		- English HL
-		- Information Technology
-		- Life Orientation
-		- Mathematics
-		- Physical Sciences
-		- Further Studies Mathematics
-			- Calculus & Algebra
-			- Graph Theory & Matrices
+	- **Matric subjects:** (Subject - achievement level/symbol)
+		- Afrikaans FAL - 3
+		- Computer Applications Technology - 7
+		- English HL - 6
+		- Information Technology - 7
+		- Life Orientation - 7
+		- Mathematics - 7
+		- Physical Sciences - 4
+		- Further Studies Mathematics - B*
+			- Calculus & Algebra - A
+			- Graph Theory & Matrices - B
 	- **IEB Exam number:** 227161020155
 	- [NSC Certificate](https://github.com/HaydnRad/HaydnRad.github.io/blob/main/src/HaydnCookeMatricResults.pdf)
 	- [FTSTUD Certificate](https://github.com/HaydnRad/HaydnRad.github.io/blob/main/src/HaydnCookeMatricResultsFTStud.pdf)
@@ -50,7 +48,7 @@ I am interested in programming for Northwood Studios, as I enjoy playing and cod
 	- [Unconfirmed Mid-year 2 Results](https://github.com/HaydnRad/HaydnRad.github.io/blob/main/src/UnconfirmedMidyear.png)
 - **Languages:**
 	- English (fluent)
-	- Afrikaans (shaky)
+	- Afrikaans (weak)
 ## Work Experience
 - **Full-time:** None.
 - **Part-time:** None.
