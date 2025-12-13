@@ -52,7 +52,9 @@ I am interested in programming for Northwood Studios, as I enjoy playing and cod
 ## Work Experience
 - **Full-time:** None.
 - **Part-time:** None.
-- **Freelance:** Brief web development for CameraStuff.
+- **Other:**
+	- Brief web development for CameraStuff.
+ 	- Vacation work at BBD Software.
 ## Skills
 - **General:**
 	- 75+ words per minute typing speed
@@ -66,10 +68,13 @@ I am interested in programming for Northwood Studios, as I enjoy playing and cod
 	- Python
 	- PHP
 	- SQL
-	- JavaScript (during a brief freelance job)
+ 	- Typescript
+	- JavaScript 
 	- HTML
 - **Other software:**
 	- Microsoft and Google suite programs
+ 	- Github
+ 	- Docker
 	- OBS Studio
 	- Visual Studio Code
 	- Obsidian
