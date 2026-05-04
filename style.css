@@ -1,21 +1,25 @@
-@import "https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.6.1/github-markdown.min.css";
-
 html {
   font-family: sans-serif;
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%
+  -ms-text-size-adjust: 200%;
+  -webkit-text-size-adjust: 200%
 }
 
 body {
   margin: 0;
-  color: white;
   box-sizing: border-box;
-  min-width: 200px;
-  max-width: 980px;
+  min-width: 20rem;
+  max-width: 80rem;
   margin: 0 auto;
-  padding: 45px;
-  font-size: 14px;
-  line-height: 1.5
+  padding: 4rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  background-color: #0d1117;
+  color: white;
+}
+
+a {
+  color: #237adf;
+  text-decoration: none
 }
 
 @media (prefers-color-scheme: light) {
@@ -23,24 +27,16 @@ body {
     background-color: #ffffff;
     color: #24292e;
   }
-}
 
-@media (prefers-color-scheme: dark) {
-  body {
-    background-color: #0d1117;
-    color: white;
+  a {
+    color: #0366d6;
   }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 46rem) {
   body {
-    padding: 15px;
+    padding: 1rem;
   }
-}
-
-a {
-  color: #0366d6;
-  text-decoration: none
 }
 
 a:hover {
@@ -53,7 +49,7 @@ b {
 
 hr {
   height: 0;
-  margin: 15px 0;
+  margin: 1rem 0;
   overflow: hidden;
   background: transparent;
   border: 0;
@@ -66,34 +62,19 @@ hr {
 h1,
 h2 {
   margin-top: 0;
-  margin-bottom: 0
+  margin-bottom: 0;
+  font-weight: 600
 }
 
 h1 {
-  font-size: 32px;
-  font-weight: 600
+  font-size: 2rem;
 }
 
 h2 {
-  font-size: 24px;
-  font-weight: 600
+  font-size: 1.5rem;
 }
 
 p {
   margin-top: 0;
-  margin-bottom: 10px
-}
-
-article,
-aside,
-details,
-figcaption,
-figure,
-footer,
-header,
-main,
-menu,
-nav,
-section {
-  display: block
+  margin-bottom: 0.8rem
 }
