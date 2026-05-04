@@ -1,30 +1,99 @@
 @import "https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.6.1/github-markdown.min.css";
+
+html {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%
+}
+
 body {
   margin: 0;
+  color: white;
+  box-sizing: border-box;
+  min-width: 200px;
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 45px;
+  font-size: 14px;
+  line-height: 1.5
 }
 
 @media (prefers-color-scheme: light) {
   body {
     background-color: #ffffff;
+    color: #24292e;
   }
 }
 
 @media (prefers-color-scheme: dark) {
   body {
     background-color: #0d1117;
+    color: white;
   }
-}
-
-.markdown-body {
-  box-sizing: border-box;
-  min-width: 200px;
-  max-width: 980px;
-  margin: 0 auto;
-  padding: 45px;
 }
 
 @media (max-width: 767px) {
-  .markdown-body {
+  body {
     padding: 15px;
   }
+}
+
+a {
+  color: #0366d6;
+  text-decoration: none
+}
+
+a:hover {
+  text-decoration: underline
+}
+
+b {
+  font-weight: 600
+}
+
+hr {
+  height: 0;
+  margin: 15px 0;
+  overflow: hidden;
+  background: transparent;
+  border: 0;
+  border-bottom: 1px solid #dfe2e5;
+  box-sizing: content-box;
+  height: 0;
+  overflow: visible
+}
+
+h1,
+h2 {
+  margin-top: 0;
+  margin-bottom: 0
+}
+
+h1 {
+  font-size: 32px;
+  font-weight: 600
+}
+
+h2 {
+  font-size: 24px;
+  font-weight: 600
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 10px
+}
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+main,
+menu,
+nav,
+section {
+  display: block
 }
