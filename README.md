@@ -20,7 +20,7 @@
 ------------
 I plan to achieve honours in Computer Science and Mathematics at WITS university, before aiming to have a full time software development job. Finding a part-time job before then to gain experience would be ideal, however. Outside of general software development/engineering, low level and performance focused programming is of particular interest to me (notably in computer graphics and integrated hardware). I know a wide range of programming languages and can adapt quickly to new ones, meaning that I can take on any kind of programming-related task that is put in front of me. I've worked productively in multiple teams via GitHub on a few projects in the past, and can easily mesh with any future teams I may find myself with. I am interested in programming for Northwood Studios, as I enjoy playing and coding plugins for their game [_SCP: Secret Laboratory_](https://scpslgame.com) in my free time.
 
-# Education
+## Education
 ---------
 *   **High School:** Crawford International Sandton College
 	*   2018 - 2022
@@ -92,7 +92,7 @@ I plan to achieve honours in Computer Science and Mathematics at WITS university
 	*   Kdenlive
 	*   Krita
 
-# Work Availability
+## Work Availability
 ------
 *   Available immediately for part-time or remote work.
 *   Available full-time from the [15th of June to the 20th of July](https://www.wits.ac.za/students/academic-matters/term-dates/2026-term-dates/).
